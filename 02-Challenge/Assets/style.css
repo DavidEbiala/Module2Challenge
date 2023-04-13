@@ -1,0 +1,17 @@
+.headerImage{
+    height: auto;
+    max-width: 100%;
+}
+
+
+.headerName{
+    display:inline flex;
+    justify-content: flex-start;
+
+}
+
+.linkContainer{
+    display: inline flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
